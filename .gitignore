@@ -1,0 +1,14 @@
+
+# Network weight
+text-recognition/weight/TPS-ResNet-BiLSTM-Attn-case-sensitive.pth
+CRAFT/weight/craft_mlt_25k.pth
+
+# Generated and Input Image Directory
+/cover
+/TitleSegmentation
+/result
+
+*.jpg
+*.png
+*.csv
+*.gif
