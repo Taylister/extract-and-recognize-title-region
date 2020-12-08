@@ -12,3 +12,5 @@ CRAFT/weight/craft_mlt_25k.pth
 *.png
 *.csv
 *.gif
+
+.DS_Store
